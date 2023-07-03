@@ -1,0 +1,8 @@
+See file:///C:/Users/alexa/OneDrive%20-%20Melbourne%20Girls%20College/School%20Stuuf/2023/FRC/TestingOnPersonalLaptop/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp failed.
+C:\Users\alexa\OneDrive - Melbourne Girls College\School Stuuf\2023\FRC\TestingOnPersonalLaptop\src\main\cpp\Robot.cpp:9:10: fatal error: ctre/phoenix/motorcontrol/can/WPI_TalonFX.h: No such file or directory
+    9 | #include <ctre/phoenix/motorcontrol/can/WPI_TalonFX.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/alexa/OneDrive%20-%20Melbourne%20Girls%20College/School%20Stuuf/2023/FRC/TestingOnPersonalLaptop/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
